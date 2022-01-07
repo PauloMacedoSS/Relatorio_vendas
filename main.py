@@ -2,8 +2,6 @@ import pandas as pd
 import  win32com.client as win32
 
 # importar a base de dados
-import win32com.client
-
 tabela_vendas = pd.read_excel("Vendas.xlsx")
 
 # visualizar a base de dados
