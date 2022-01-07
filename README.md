@@ -2,9 +2,9 @@ This project aims to automate the sending of a sales report from several stores,
 
 To run this project it is necessary to carry out the following installations:
 
-1 - Latest version of python.
-2 - Pandas
-3 - Openpyxl
+1 - Latest version of python<br>
+2 - Pandas<br>
+3 - Openpyxl<br>
 4 - pywin32
 
 pywin32 will integrate python with windows, whereas pandas and openpyxl are python's integration with excel.
@@ -25,9 +25,9 @@ Esse projeto tem como intuito automatizar o envio de um relatório de vendas de 
 
 Para executar esse projeto é necessario realizar as seguintes instalações:
 
-1 - Ultima versão do python.
-2 - Pandas
-3 - Openpyxl
+1 - Ultima versão do python<br>
+2 - Pandas<br>
+3 - Openpyxl<br>
 4 - pywin32
 
 O pywin32 irá realizar a integração do python com o windows, já o pandas e openpyxl são a integração do python com o excel.
